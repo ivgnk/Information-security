@@ -12,3 +12,6 @@ https://habr.com/ru/hubs/infosecurity/posts/
 https://habr.com/ru/hubs/infosecurity/news  
 
 2025 [VPN включил — подозрение получил: анонимность становится красным флагом](https://habr.com/ru/articles/929034/)  https://killbot.ru/waf/myUserID         
+
+## Video          
+https://www.youtube.com/@TechTalk_NotDead/videos                  
